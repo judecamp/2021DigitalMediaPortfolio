@@ -4,7 +4,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
-     color: #000;
+     color: #0000;
 	margin: 0 auto;
 }
 .homePage {
@@ -50,7 +50,7 @@ body {font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #00000;
 }
 a:visited {
      color: #000;
