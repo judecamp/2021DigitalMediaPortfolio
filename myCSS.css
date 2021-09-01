@@ -56,4 +56,4 @@ a:visited {
      color: #00;
 }
 a:hover, a:active, a:focus { 
-     text-decoration: underline;
+     text-decoration: highlight;
